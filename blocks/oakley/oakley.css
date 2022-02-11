@@ -1,0 +1,8 @@
+.oakley {
+    display: flex;
+    padding-top: 160px;
+    background-color: #f2f2f2;
+    justify-content: center;
+    z-index: -1;
+    height: 320px;
+  }

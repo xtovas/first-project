@@ -4,3 +4,6 @@
     align-items: flex-start;
     flex-basis: 711px;
   }
+.footer__column_content_info {
+    margin-right: 255px;
+}

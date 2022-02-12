@@ -9,4 +9,5 @@
     flex-wrap: wrap;
     text-align: center;
     column-gap: 100px;
+    grid-gap: 60px;
   }

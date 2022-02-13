@@ -1,7 +1,8 @@
 .video__iframe {
-    border: 0;
+     border: 0;
      width: 515px;
      height: 316px;
+     frameborder: 0;
    }
    .video__iframe:last-child {
      margin-left: 20px;

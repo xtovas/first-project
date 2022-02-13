@@ -9,6 +9,7 @@
     align-items: center;
     z-index: 1;
     text-decoration: none;
+    color: #2f80ed;
   }
   .feynman__link:hover {
     opacity: 0.6;

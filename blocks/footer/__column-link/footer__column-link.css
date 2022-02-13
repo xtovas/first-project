@@ -5,10 +5,3 @@
   .footer__column-link:hover {
     opacity: 0.6;
   }
-.footer__column-link-item {
-  display: flex;
-  align-content: center;
-  list-style: none;
-  padding-bottom: 10px;
-  width: 105px;
-  }

@@ -1,8 +1,9 @@
 .header__title {
-    display: flex;
-    justify-content: center;
+    align-self: center;
+    margin: 0;
+    padding: 0;
     margin-left: 64px;
-    width: 730px;
+    max-width: 730px;
     font-weight: bold;
     font-size: 102px;
     line-height: 96px;

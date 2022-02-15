@@ -6,6 +6,5 @@
 .two-columns {
     justify-content: space-between;
     width: 80%;
-    min-height: 400px;
     display: flex;
   }

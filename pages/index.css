@@ -27,7 +27,6 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
-
 /*techniques*/
 @import url(../blocks/techniques/techniques.css);
 
@@ -45,12 +44,11 @@
 
 /*section-title*/
 @import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
 /*section-subtitle*/
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
-
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 /*oakley*/
 @import url(../blocks/oakley/oakley.css);
@@ -65,13 +63,19 @@
 /*digits*/
 @import url(../blocks/digits/digits.css);
 
+/*kaufman*/
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+
 /*table*/
 @import url(../blocks/table/table.css);
-
+@import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/table__text.css);
-
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
 /*khan*/
 @import url(../blocks/khan/khan.css);
@@ -84,15 +88,6 @@
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
-
-/*kaufman*/
-@import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/table/_theme_dark/table_theme_dark.css);
-@import url(../blocks/table/__cell/_theme_dark/table__cell_theme_dark.css);
-@import url(../blocks/table/__heading/_theme_dark/table__heading_theme_dark.css);
-@import url(../blocks/table/__text/_theme_dark/table__text_theme_dark.css);
-
 
 /*resources*/
 @import url(../blocks/resources/resources.css);
@@ -112,6 +107,6 @@
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
-
 /*rotation*/
 @import url(../blocks/rotation/rotation.css);
+

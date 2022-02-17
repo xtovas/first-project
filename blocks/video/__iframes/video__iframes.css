@@ -1,6 +1,6 @@
 .video__iframes {
     position: relative;
     display: flex;
-    margin: auto;
+    margin: 0 auto;
     transform: translate(1px, 60px); 
 }

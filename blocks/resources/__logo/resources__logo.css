@@ -5,3 +5,7 @@
     height: 38px;
     gap: 5px;
 }
+
+.resources__logo:hover {
+  background-color: #1f1f1f;
+}

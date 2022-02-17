@@ -2,5 +2,5 @@
     position: relative;
     display: flex;
     margin: 50px auto 0;
-    max-height: 268px;
+    transform: translate(5px, 60px); 
 }

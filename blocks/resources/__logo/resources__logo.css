@@ -4,8 +4,9 @@
     width: 270px;
     height: 38px;
     gap: 5px;
-}
+    transition: opacity .3s ease; 
+} 
 
-.resources__logo:hover {
-  background-color: #1f1f1f;
+ .resources__logo:hover { 
+    opacity: 0.6; 
 }
